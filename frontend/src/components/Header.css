@@ -1,0 +1,20 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: rgba(24, 24, 24, 0.8);
+  backdrop-filter: blur(10px);
+}
+
+.nav a {
+  color: #E5E5E5;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+.profile img {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
